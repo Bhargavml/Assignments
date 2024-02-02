@@ -2,7 +2,7 @@
 1. Look at the data given below. Plot the data, find the outliers and find out  μ, σ, 2
 
 Name of company |  	Measure X
-------------------------------
+---------------------------------
 Allied Signal	      24.23%
 Bankers Trust	      25.53%
 General Mills	      25.41%
